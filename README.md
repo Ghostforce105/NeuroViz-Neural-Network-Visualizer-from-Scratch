@@ -6,7 +6,8 @@ NeuroViz is an interactive neural network visualization and training tool built 
 ![NumPy](https://img.shields.io/badge/NumPy-Used-green)
 ![Tkinter](https://img.shields.io/badge/Tkinter-UI-orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Graphs-red)
-##Video LINK
+
+## Video LINK
 https://youtu.be/10C3C3N0uRM
 
 ## 📌 Overview
