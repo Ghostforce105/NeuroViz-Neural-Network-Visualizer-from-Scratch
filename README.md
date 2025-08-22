@@ -32,7 +32,13 @@ This project demonstrates **how neural networks work internally** without relyin
 ---
 
 ## 🖥️ Screenshots
-(Add screenshots of your Tkinter UI and loss graph here)
+TKINTER - GUI
+<img width="1920" height="1020" alt="GUI" src="https://github.com/user-attachments/assets/2a67b4b5-7c6e-45ec-8db8-42565e74e98f" />
+NEURAL NETWORK 
+<img width="1920" height="1020" alt="Screenshot 2025-08-23 002600" src="https://github.com/user-attachments/assets/b4019e2d-d66a-408c-8c15-925233f5325c" />
+LOSS GRAPH
+<img width="1920" height="1020" alt="Screenshot 2025-08-23 002628" src="https://github.com/user-attachments/assets/24784b7b-fce7-4d60-8119-3f6205e92b8e" />
+
 
 ---
 
