@@ -30,7 +30,7 @@ This project demonstrates **how neural networks work internally** without relyin
   - Activation function
 ✔ Real-time **loss curve visualization** using Matplotlib  
 ✔ Layer abstraction (OOP design)  
-✔ Save & load models (optional if implemented)
+✔ Save & load models 
 
 ---
 
